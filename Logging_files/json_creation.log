@@ -1,0 +1,58 @@
+2025-10-17 18:32:49,743 - INFO - JSON Creation Logging setup successfully for Kaggle!
+2025-10-17 18:32:49,744 - INFO - JSONCreationPipeline initialized
+2025-10-17 18:32:49,745 - INFO - Starting JSON Files Creation Pipeline on Kaggle...
+2025-10-17 18:32:49,746 - INFO - JSONCreator initialized
+2025-10-17 18:32:49,747 - INFO - Created data for 34 classes
+2025-10-17 18:32:49,748 - INFO - Creating individual JSON files...
+2025-10-17 18:32:49,749 - INFO - Created: /kaggle/working/json_folder/Baked_potato.json
+2025-10-17 18:32:49,750 - INFO - Created: /kaggle/working/json_folder/Crispy_chicken.json
+2025-10-17 18:32:49,751 - INFO - Created: /kaggle/working/json_folder/Donut.json
+2025-10-17 18:32:49,752 - INFO - Created: /kaggle/working/json_folder/Fries.json
+2025-10-17 18:32:49,753 - INFO - Created: /kaggle/working/json_folder/Hot_Dog.json
+2025-10-17 18:32:49,754 - INFO - Created: /kaggle/working/json_folder/Sandwich.json
+2025-10-17 18:32:49,755 - INFO - Created: /kaggle/working/json_folder/Taco.json
+2025-10-17 18:32:49,756 - INFO - Created: /kaggle/working/json_folder/Taquito.json
+2025-10-17 18:32:49,757 - INFO - Created: /kaggle/working/json_folder/apple_pie.json
+2025-10-17 18:32:49,758 - INFO - Created: /kaggle/working/json_folder/burger.json
+2025-10-17 18:32:49,759 - INFO - Created: /kaggle/working/json_folder/butter_naan.json
+2025-10-17 18:32:49,760 - INFO - Created: /kaggle/working/json_folder/chai.json
+2025-10-17 18:32:49,761 - INFO - Created: /kaggle/working/json_folder/chapati.json
+2025-10-17 18:32:49,762 - INFO - Created: /kaggle/working/json_folder/cheesecake.json
+2025-10-17 18:32:49,763 - INFO - Created: /kaggle/working/json_folder/chicken_curry.json
+2025-10-17 18:32:49,764 - INFO - Created: /kaggle/working/json_folder/chole_bhature.json
+2025-10-17 18:32:49,765 - INFO - Created: /kaggle/working/json_folder/dal_makhani.json
+2025-10-17 18:32:49,766 - INFO - Created: /kaggle/working/json_folder/dhokla.json
+2025-10-17 18:32:49,767 - INFO - Created: /kaggle/working/json_folder/fried_rice.json
+2025-10-17 18:32:49,767 - INFO - Created: /kaggle/working/json_folder/ice_cream.json
+2025-10-17 18:32:49,769 - INFO - Created: /kaggle/working/json_folder/idli.json
+2025-10-17 18:32:49,769 - INFO - Created: /kaggle/working/json_folder/jalebi.json
+2025-10-17 18:32:49,770 - INFO - Created: /kaggle/working/json_folder/kadai_paneer.json
+2025-10-17 18:32:49,771 - INFO - Created: /kaggle/working/json_folder/kathi_rolls.json
+2025-10-17 18:32:49,772 - INFO - Created: /kaggle/working/json_folder/kulfi.json
+2025-10-17 18:32:49,773 - INFO - Created: /kaggle/working/json_folder/masala_dosa.json
+2025-10-17 18:32:49,774 - INFO - Created: /kaggle/working/json_folder/momos.json
+2025-10-17 18:32:49,775 - INFO - Created: /kaggle/working/json_folder/omlette.json
+2025-10-17 18:32:49,776 - INFO - Created: /kaggle/working/json_folder/paani_puri.json
+2025-10-17 18:32:49,776 - INFO - Created: /kaggle/working/json_folder/pakode.json
+2025-10-17 18:32:49,778 - INFO - Created: /kaggle/working/json_folder/pav_bhaji.json
+2025-10-17 18:32:49,779 - INFO - Created: /kaggle/working/json_folder/pizza.json
+2025-10-17 18:32:49,779 - INFO - Created: /kaggle/working/json_folder/samosa.json
+2025-10-17 18:32:49,781 - INFO - Created: /kaggle/working/json_folder/sushi.json
+2025-10-17 18:32:49,781 - INFO - All 34 JSON files created successfully!
+2025-10-17 18:32:49,782 - INFO - Combined pickle file saved: /kaggle/working/json_all_food_classes.pkl
+2025-10-17 18:32:49,783 - INFO - Pickle verification successful: 34 classes loaded
+2025-10-17 18:32:49,783 - INFO - JSONVerifier initialized
+2025-10-17 18:32:49,784 - INFO - Starting JSON files verification...
+2025-10-17 18:32:49,786 - INFO - === JSON FILES VERIFICATION RESULTS ===
+2025-10-17 18:32:49,786 - INFO - ✓ json_pickle: JSON pickle verified: 34 classes
+2025-10-17 18:32:49,787 - INFO - ✓ json_files: All 34 JSON files created successfully
+2025-10-17 18:32:49,787 - INFO - 
+================================================================================
+2025-10-17 18:32:49,788 - INFO - JSON FILES CREATION - FINAL REPORT
+2025-10-17 18:32:49,789 - INFO - ================================================================================
+2025-10-17 18:32:49,789 - INFO - CREATION SUMMARY:
+2025-10-17 18:32:49,790 - INFO -   json_pickle: PASS - JSON pickle verified: 34 classes
+2025-10-17 18:32:49,790 - INFO -   json_files: PASS - All 34 JSON files created successfully
+2025-10-17 18:32:49,791 - INFO - OVERALL STATUS: COMPLETED SUCCESSFULLY
+2025-10-17 18:32:49,791 - INFO - ================================================================================
+2025-10-17 18:32:49,792 - INFO - JSON Files Creation Pipeline completed successfully!
