@@ -5,6 +5,10 @@
 # Project Overview
 A complete web-based food classification system that can identify 34 different food items from images and display detailed nutritional information. This project combines deep learning with web technologies to create a practical tool for food recognition and health analysis.
 
+### **DataSet From Kaggle**
+
+https://www.kaggle.com/datasets/harishkumardatalab/food-image-classification-dataset
+
 ### **Features**
 Multi-Model Support: Choose between three trained models (Custom CNN, VGG16, ResNet)
 
